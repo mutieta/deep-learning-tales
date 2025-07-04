@@ -1,6 +1,3 @@
-Here’s a friendly, beginner-friendly README draft for your **deep-learning-tales** project, incorporating your tone and intent. You can copy, edit, or extend as you like!
-
-````markdown name=README.md
 # Deep Learning Tales
 
 Hello traveller! 👋
