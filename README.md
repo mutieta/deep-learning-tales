@@ -18,7 +18,7 @@ Mostly for myself! But if you stumble in and find something helpful, or if you w
 
 - My notes and summaries on deep learning concepts
 - Code snippets and experiments
-- Reflections on what I've learned (and what confused me)
+- Reflections on what I've learned (and what confused me💅🏼)
 - Links to resources I found useful
 
 ## Who is this for?
@@ -30,7 +30,7 @@ Mostly for myself! But if you stumble in and find something helpful, or if you w
 ## How to Use This Repo
 
 - Browse the folders and files by topic or date
-- Try out code samples (if you dare!)
+- Try out code samples (if you dare🫦!)
 - Suggest resources or corrections via issues or pull requests
 
 ## Disclaimer
@@ -39,6 +39,6 @@ I'm not an expert, just a learner sharing my notes. There will be mistakes, misu
 
 ---
 
-Thanks for stopping by, and happy learning!
+Thanks for stopping by, and happy learning! 
 
 ````
